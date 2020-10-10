@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crosses-and-o-s": {
+      "hosting": {
+        "firebase-angular": [
+          "crosses-and-o-s"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crosses-and-o-s"
+  }
+}
